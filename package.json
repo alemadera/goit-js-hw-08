@@ -12,19 +12,21 @@
     "url": "git+https://github.com/alemadera/goit-js-hw-08.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": " ",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/alemadera/goit-js-hw-08/issues"
   },
   "dependencies": {
+    "libox": "^1.2.0",
+    "lodash": "^4.17.21",
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
     "@vimeo/player": "^2.21.0",
-    "lodash.throttle": "^4.1.1",
     "gh-pages": "^6.1.1",
+    "lodash.throttle": "^4.1.1",
     "parcel": "^2.6.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4",
